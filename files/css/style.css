@@ -1,0 +1,92 @@
+#header_section{
+  margin-top: 5rem;
+  height: 3rem;
+}
+
+#main_logo{
+  text-align: center;
+  float: left;
+  width: 20%;
+}
+
+#main_logo a{
+  font-family: 'Gloria Hallelujah';
+  color: #FF007F;
+  font-size: 7rem;
+  text-decoration: none;
+}
+
+#main_menu1{
+  float: left;
+  width: 33%;
+  margin-left: 2rem;
+}
+
+.navigation1{
+  float: left;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: 3rem;
+}
+
+.navigation1: last-child{
+  margin-right: 0;
+}
+
+#main_menu2{
+  float: right;
+  width: 33%;
+  margin-right: 2rem;
+}
+
+.navigation2{
+  float: right;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: 3rem;
+}
+
+.navigation2: last-child{
+  margin-left: 0;
+}
+
+.navigation1 a{
+  color: #5D5D5D;
+  font-size: 2rem;
+  text-decoration: none;
+  font-family: 'Pompiere', cursive;
+}
+
+.navigation2 a{
+  color: #5D5D5D;
+  font-size: 2rem;
+  text-decoration: none;
+  font-family: 'Pompiere', cursive;
+}
+
+#main_section{
+  margin-top: 10rem;
+  width: 100%;
+  height: 100vh;
+}
+
+.picture{
+  float: left;
+  margin-left: 27%;
+}
+
+.food_image{
+  width: 22%;
+  float: left;
+  margin-left: 0.7rem;
+  margin-bottom: 1rem;
+}
+
+.letter{
+  color:#BDBDBD;
+  text-align: justify;
+  line-height: 1.5;
+  width: 60%;
+  margin: 0 auto;
+  font-size: 1.2rem;
+}
